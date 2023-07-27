@@ -1,8 +1,9 @@
 <?php
 
 /**
- * Plugin Name: CF7 Form Trap
+ * Plugin Name: KVCore Contact Form API
  * Author: Alex Perreira
+ * URL: https://github.com/alexperreira/cf7-kvcore-api
  * Description: Get CF7 Data and Send to KVCore
  * Version: 0.1.0
  * License: GPL3
