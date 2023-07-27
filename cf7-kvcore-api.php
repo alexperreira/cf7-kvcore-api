@@ -30,7 +30,7 @@ function send_to_kvcore($form_data)
             'first_name' => $posted_data['first-name'],
             'last_name' => $posted_data['last-name'],
             'email' => $posted_data['your-email'],
-            'phone' => $posted_data['tel-472'],
+            'cell_phone_1' => $posted_data['tel-472'],
             'message' => $posted_data['your-message'],
         ];
     }
